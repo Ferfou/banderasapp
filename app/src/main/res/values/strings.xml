@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">banderas</string>
+    <string name="ecuador">Ecuador</string>
+    <string name="turkia">Turkia</string>
+    <string name="canada">Canada</string>
+    <string name="paraguay">Paraguay</string>
+</resources>
